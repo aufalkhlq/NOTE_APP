@@ -1,8 +1,8 @@
 # TugasNoteApp
 Dibuat oleh :
-- Wahyu Indra Permana (3.34.21.0.23)
-![1](https://user-images.githubusercontent.com/117348907/209195243-eddc4b6e-56e8-4764-8bfb-ba486ef605ad.png)
-![2](https://user-images.githubusercontent.com/117348907/209195275-3a8fc98e-1fd3-488c-ab9e-06c031ce7c88.png)
-![3](https://user-images.githubusercontent.com/117348907/209195301-4fcca81b-5b24-42a6-9cf8-b5c88d38b2ba.png)
-![4](https://user-images.githubusercontent.com/117348907/209195316-5f79cbe3-3a19-4960-9024-4c12f9e82743.png)
-![5](https://user-images.githubusercontent.com/117348907/209195331-3c059302-c2da-4a68-b336-37993dedfa61.png)
+- Moh Aufal Kholqi (3.34.21.0.15)
+
+[WhatsApp Image 2022-12-23 at 01 54 48](https://user-images.githubusercontent.com/46641554/209206722-5c8ff3c4-ebd1-45f9-917d-562c2d36e0e0.jpeg)!
+[WhatsApp Image 2022-12-23 at 01 54 54](https://user-images.githubusercontent.com/46641554/209206726-c5d3930f-11ed-406b-b382-c6d58e7b566b.jpeg)!
+[WhatsApp Image 2022-12-23 at 01 53 40](https://user-images.githubusercontent.com/46641554/209206729-1b491bc3-e23b-40b5-9eb0-726202c5e698.jpeg)!
+[WhatsApp Image 2022-12-23 at 01 54 29](https://user-images.githubusercontent.com/46641554/209206719-d5e131eb-7035-463f-8bb2-bd662e825a36.jpeg)!
